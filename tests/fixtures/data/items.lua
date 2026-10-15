@@ -1,0 +1,16 @@
+return {
+    ["iron dagger"] = { name = "Iron Dagger", type = "weapon", subtype = "shortblade", value = 10, weight = 3 },
+    ["steel dagger"] = { name = "Steel Dagger", type = "weapon", subtype = "shortblade", value = 30, weight = 4 },
+    ["glass dagger"] = { name = "Glass Dagger", type = "weapon", subtype = "shortblade", value = 1000, weight = 2 },
+    ["steel longsword"] = { name = "Steel Longsword", type = "weapon", subtype = "longblade", value = 100, weight = 12 },
+    ["iron arrow"] = { name = "Iron Arrow", type = "weapon", subtype = "arrow", value = 1, weight = 0.1 },
+    ["bk_argonian"] = { name = "The Argonian Account", type = "book", subtype = "book", value = 25, weight = 3 },
+    ["sc_fireball"] = { name = "Scroll of Fireball", type = "book", subtype = "scroll", value = 60, weight = 0.2 },
+    ["p_restore_health_c"] = { name = "Cheap Restore Health", type = "potion", subtype = "potion", value = 15, weight = 1 },
+    ["ingred_bread_01"] = { name = "Bread", type = "ingredient", subtype = "ingredient", value = 1, weight = 0.2 },
+    ["misc_soulgem_petty"] = { name = "Petty Soul Gem", type = "misc", subtype = "soulgem", value = 10, weight = 0.2 },
+    ["common_ring_01"] = { name = "Common Ring", type = "clothing", subtype = "ring", value = 5, weight = 0.1 },
+    ["exquisite_ring_01"] = { name = "Exquisite Ring", type = "clothing", subtype = "ring", value = 5000, weight = 0.1 },
+    ["ring_of_fire"] = { name = "Ring of Fire", type = "clothing", subtype = "ring", value = 800, weight = 0.1, enchanted = true },
+    ["misc_com_bottle_01"] = { name = "Bottle", type = "misc", subtype = "misc", value = 1, weight = 1 },
+}
